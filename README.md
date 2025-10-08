@@ -6,21 +6,6 @@
 A curated collection of data science projects, scripts, and analyses with a focus on bioinformatics. This repository serves as a portfolio and a resource for exploring computational biology, genomics, proteomics, and related fields through the lens of data science.
 
 ## 📁 Repository Structure
-.
-├── data/ # Data directories (see Data Section below)
-│ ├── raw/ # Original, immutable data
-│ ├── processed/ # Cleaned, transformed data for analysis
-│ └── external/ # Third-party data sources (e.g., reference genomes)
-├── notebooks/ # Jupyter/R Markdown notebooks for exploration & analysis
-├── scripts/ # Reusable Python/R/Bash scripts
-│ ├── data_preprocessing/
-│ ├── analysis/
-│ └── utils/
-├── models/ # Saved trained models (if any)
-├── reports/ # Generated analysis reports, figures, and presentations
-├── environment.yml # Conda environment for reproducibility
-├── requirements.txt # Pip requirements (alternative to conda)
-└── README.md # This file
 
 
 ## 🚀 Quick Start
